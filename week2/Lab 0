@@ -1,0 +1,10 @@
+Lab 00 - Leds in Serial and Parallel
+Answer the following questions:
+
+How many leds can you hook up with a 220k resistor in serial before running out of voltage?
+
+2, 3 will be very dark
+
+How many leds can you hook up with a 220k resistor in parallel before running out of voltage?
+
+i used all six of LEDs that I have, all very bright
